@@ -1,0 +1,10 @@
+{
+    "name": "ui-test",
+    "dependencies": {
+        "selenium-webdriver": "3.6.0",
+        "iedriver": "3.14.1"
+    },
+    "scripts": {
+        "test": "node test.js"
+    }
+}
